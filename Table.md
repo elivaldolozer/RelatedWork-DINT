@@ -12,5 +12,5 @@ No specific domain                |                     |                     |X
 Types of joins                    |                     |                     |                      |                 |            |                      |X
 
 
-* Requires manual effort to develop data integration
-** Not specified
+> * Requires manual effort to develop data integration
+> ** Not specified
