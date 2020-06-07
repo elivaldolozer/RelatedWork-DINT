@@ -1,4 +1,4 @@
-# Major differences between related works and DINT method
+## Major differences between related works and DINT method
 
 Exemplo   | Valor do exemplo
 --------- | ------
