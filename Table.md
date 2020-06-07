@@ -13,4 +13,5 @@ Types of joins                    |                     |                     | 
 
 
 \* Requires manual effort to develop data integration
+
 ** Not specified
