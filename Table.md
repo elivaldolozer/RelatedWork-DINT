@@ -10,5 +10,7 @@ Exemplo 4 | R$ 8
 Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
 Valor | Valor | Valor
+Valor | Valor | Valor
+Valor | Valor | Valor
 
 
