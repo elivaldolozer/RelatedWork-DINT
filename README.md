@@ -1,5 +1,5 @@
 # Related work of DINT (Data INTegration) method
-Table presents the main differences between the related works and our DINT method. We consider eight comparison criteria:
+Comparison between the related works and our DINT method consider eight criteria:
 - **Recognizes structured models**: ability to collect and manipulate structured data, e.g. tables;
 - **Recognizes semi-structured models**: ability to collec and manipulate semi-structured data, e.g. JSON and CSV;
 - **DaaS support**: ability to access and collect data from DaaS;
