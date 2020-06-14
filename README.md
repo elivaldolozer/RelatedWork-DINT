@@ -1,5 +1,5 @@
-# Related work of DINT (Data INTegration) method
-[Table](https://github.com/elivaldolozer/RelatedWork-DINT/blob/master/Table.md) presents the major differences between our DINT method and our related works. We used eight comparison criteria:
+# Related work of Data Join (DJ) method
+[Table](https://github.com/elivaldolozer/RelatedWork-DINT/blob/master/Table.md) presents the major differences between our DJ method and our related works. We used eight comparison criteria:
 - **Recognizes structured models**: ability to collect and manipulate structured data, e.g. tables;
 - **Recognizes semi-structured models**: ability to collec and manipulate semi-structured data, e.g. JSON and CSV;
 - **DaaS support**: ability to access and collect data from DaaS;
